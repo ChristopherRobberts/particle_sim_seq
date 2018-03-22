@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/common.cpp
+common.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/common.h
+string.h
+-
+sys/time.h
+-
+cmath
+-
+windows.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/windows.h
+random
+-
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/common.h
+iostream
+-
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/main.cpp
+common.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/common.h
+particlematrix.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/particlematrix.h
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/particlematrix.cpp
+cstdio
+-
+cmath
+-
+particlematrix.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/particlematrix.h
+
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/particlematrix.h
+common.h
+/cygdrive/c/Users/Chris/CLionProjects/Particle-Simulation/src/common.h
+vector
+-
+
